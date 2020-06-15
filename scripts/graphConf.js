@@ -18,7 +18,7 @@ const REST_TIMEOUT = 2000
 
 // limit number of nodes and edges to query for graph info
 // (avoid overwhelming the server for large graphs)
-const limit_graphinfo_request = 10000
+//const limit_graphinfo_request = 100000
 
 // Graph configuration
 const default_nb_of_layers = 3;
